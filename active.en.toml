@@ -1,0 +1,14 @@
+[Emails]
+description = "The number of unread emails a user has"
+one = "{{.Name}} has {{.Count}} email."
+other = "{{.Name}} has {{.Count}} emails."
+
+[Notifications]
+description = "The number of unread notifications a user has"
+one = "<<.Name>> has <<.Count>> notification."
+other = "<<.Name>> has <<.Count>> notifications."
+
+[invoices]
+description = "The number of invoices a person has"
+one = "You can {{.Count}} invoice"
+other = "You have {{.Count}} invoices"

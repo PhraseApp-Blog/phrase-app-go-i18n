@@ -1,0 +1,15 @@
+{
+  "HelloPerson": "Για σου {{ .Name }}",
+  "hello_world": "Για σου Κόσμε",
+  "messages": {
+    "description": "The number of messages a person has",
+    "one": "Ο/Η {{.Name}} έχει {{.Count}} μύνημα.",
+    "other": "Ο/Η {{.Name}} έχει {{.Count}} μύνηματα."
+  },
+  "HelloPerson": "Για σου {{.Name}}",
+  "invoices": {
+    "description": "The number of invoices a person has",
+    "one": "Έχεις {{.Count}} τιμολόγιο",
+    "other": "Έχεις {{.Count}} τιμολόγια"
+  }
+}
